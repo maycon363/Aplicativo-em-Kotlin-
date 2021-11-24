@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pratica4</string>
+    <string name="title_activity_lista">ListaActivity</string>
+    <string name="nome">Nome</string>
+
+    <string-array name="Contatos">
+        <item>Soldado Nelso</item>
+        <item>Soldado Silva</item>
+        <item>Soldado Gustavo</item>
+        <item>Sargento Pablo</item>
+        <item>Cabo Lucas</item>
+        <item>Tenente Marcos</item>
+        <item>Tenente Marcio</item>
+        <item>Soldado Pontes</item>
+        <item>Soldado Joao</item>
+    </string-array>
+</resources>
